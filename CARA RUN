@@ -1,0 +1,11 @@
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install nodejs
+
+pkg install git
+
+git
